@@ -1,0 +1,9 @@
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\bin\Debug\netcoreapp1.1\ChatRESTAPI.deps.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\bin\Debug\netcoreapp1.1\ChatRESTAPI.runtimeconfig.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\bin\Debug\netcoreapp1.1\ChatRESTAPI.runtimeconfig.dev.json
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\bin\Debug\netcoreapp1.1\ChatRESTAPI.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\bin\Debug\netcoreapp1.1\ChatRESTAPI.pdb
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\obj\Debug\netcoreapp1.1\ChatRESTAPI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\obj\Debug\netcoreapp1.1\ChatRESTAPI.AssemblyInfo.cs
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\obj\Debug\netcoreapp1.1\ChatRESTAPI.dll
+C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\obj\Debug\netcoreapp1.1\ChatRESTAPI.pdb

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace ChatRESTAPI.Models
+namespace ChatRESTAPI.Model
 {
     public class ChatMessage
     {

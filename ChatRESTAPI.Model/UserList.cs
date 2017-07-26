@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
 
-namespace ChatRESTAPI.Models
+namespace ChatRESTAPI.Model
 {
     public class UserList
     {

@@ -10,6 +10,5 @@ namespace ChatRESTAPI.Models
         public int SenderUserId { get; set; }
         public int RecipientUserId { get; set; }
         public string Message { get; set; }
-
     }
 }

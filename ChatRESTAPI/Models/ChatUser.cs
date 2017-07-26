@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 
@@ -16,21 +15,6 @@ namespace ChatRESTAPI.Models
             TimeConnected = DateTime.Now;
             UserList.Add(this);
             return true;
-        }
-    }
-
-    public class UserList
-    {
-        public static IEnumerable<ChatUser> Users { get; }
-
-        public static void Add (ChatUser User)
-        {
-            Users.Append(User);
-        }
-
-        public static void Remove (int UserId)
-        {
-            
         }
     }
 }

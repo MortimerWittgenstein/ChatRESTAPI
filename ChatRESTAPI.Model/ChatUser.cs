@@ -13,10 +13,25 @@ namespace ChatRESTAPI.Model
 
         public string Tag => "User";
 
+        public ChatUser(int id, string username)
+        {
+            Id = id;
+            Username = username;
+        }
+
         public bool Connect()
         {
+            if (!Authenticate())
+                return false;
+
             TimeConnected = DateTime.Now;
-            UserList.Add(this);
+            UserList.Users.Append(this);
+            return true;
+        }
+
+        private bool Authenticate()
+        {
+            // TODO
             return true;
         }
     }

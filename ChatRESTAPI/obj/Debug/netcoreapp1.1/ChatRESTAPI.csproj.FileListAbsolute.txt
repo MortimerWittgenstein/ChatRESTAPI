@@ -7,3 +7,11 @@ C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ChatRESTAPI\ChatRES
 C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\obj\Debug\netcoreapp1.1\ChatRESTAPI.AssemblyInfo.cs
 C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\obj\Debug\netcoreapp1.1\ChatRESTAPI.dll
 C:\Users\Administrator\Documents\Visual Studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\obj\Debug\netcoreapp1.1\ChatRESTAPI.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\bin\Debug\netcoreapp1.1\ChatRESTAPI.Core.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\bin\Debug\netcoreapp1.1\ChatRESTAPI.Model.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\bin\Debug\netcoreapp1.1\ChatRESTAPI.Runtime.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\bin\Debug\netcoreapp1.1\ChatRESTAPI.Database.dll
+C:\Users\Administrator\documents\visual studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\bin\Debug\netcoreapp1.1\ChatRESTAPI.Runtime.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\bin\Debug\netcoreapp1.1\ChatRESTAPI.Core.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\bin\Debug\netcoreapp1.1\ChatRESTAPI.Database.pdb
+C:\Users\Administrator\documents\visual studio 2017\Projects\ChatRESTAPI\ChatRESTAPI\bin\Debug\netcoreapp1.1\ChatRESTAPI.Model.pdb

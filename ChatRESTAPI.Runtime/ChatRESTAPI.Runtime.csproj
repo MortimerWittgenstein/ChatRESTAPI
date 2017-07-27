@@ -1,7 +1,13 @@
-<Project Sdk="Microsoft.NET.Sdk">
+﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ChatRESTAPI.Core\ChatRESTAPI.Core.csproj" />
+    <ProjectReference Include="..\ChatRESTAPI.Database\ChatRESTAPI.Database.csproj" />
+    <ProjectReference Include="..\ChatRESTAPI.Model\ChatRESTAPI.Model.csproj" />
+  </ItemGroup>
 
 </Project>
